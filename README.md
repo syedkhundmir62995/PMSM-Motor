@@ -9,4 +9,4 @@
 - The idea behind this project is to build a machine learning model with appropriate feature engineering and selection techniques, that estimates four target variables. I have implemented two machine learning models which are Decision Tree and SVM where I have observed the accuracy was 95+. But a limitation of multi-output prediction with machine learning is that the relationships between inputs and outputs can be blocky or highly structured based on the training data. So, I have implemented an Artificial Neural Network for this task and it works very well. Total of three models were used for this project of which one with the best accuracy was selected.
 
 ### Results:
-- We used the r2 score as our measurement metric and achieved an accuracy of 90+% on the test as well as on validation data.
+- I have used the r2 score as our measurement metric and achieved an accuracy of 90+% on the test as well as on validation data.
